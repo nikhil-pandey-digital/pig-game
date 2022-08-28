@@ -1,5 +1,5 @@
 # pig-game
- A Two player game  which is really entertaining and exciting to play 😍 give it a try 🙂
+``` A Two player game  which is really entertaining and exciting to play 😍 give it a try 🙂
 
 rules of the game:-
   1) there are two players and there are two type of scores for each player .
@@ -13,3 +13,4 @@ rules of the game:-
        option 2--> hold the position,  that will add the current score to the total score 
        
        the player who first scores 100 points will win the game :-)
+ ```
